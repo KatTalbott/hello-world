@@ -1,0 +1,25 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background-image: url("NonbinaryFlag.png");
+  font-size: 20px;
+  height: 100vh; /* trick to make the "page" the full height */
+	text-align: center;
+}
+
+p {
+    font-size: 2em;
+    color: black;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-shadow: 2px 2px 5px darkgray;
+}
+
+.row {}
+
+.makemmbeautiful {
+	width: 100%;
+}
+
+
